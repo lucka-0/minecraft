@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "#w#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_planks"
+    },
+    "w": {
+      "item": "minecraft:wooden_shovel"
+    }
+  },
+  "result": {
+    "item": "minecraft:birch_boat"
+  }
+}
